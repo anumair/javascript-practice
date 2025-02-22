@@ -10,4 +10,3 @@ constant thesis="aknx"
 let d 
 d=1256
 console.table([a,c,d]);
-//printg as table
